@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👩🏻‍💻 Amanda Evelyn Marques
 
-<!--
-**amarquesa/amarquesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas  
+Foco em Desenvolvimento Back-end com Java e Banco de Dados
 
-Here are some ideas to get you started:
+Atualmente construindo projetos práticos com Java, SQL e APIs REST, buscando evoluir para atuação como Desenvolvedora Back-end Júnior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+
+💻 Back-end
+- Java
+- JDBC
+- Noções de Spring Boot
+- API REST
+
+🗄 Banco de Dados
+- PostgreSQL
+- MySQL
+- Modelagem de Dados
+- Consultas SQL e otimização básica
+
+🛠 Ferramentas
+- Git & GitHub
+- VS Code / Eclipse
+- Excel (análise e organização de dados)
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 Sistema de Cadastro de Usuários (Java + SQL)  
+🔹 API REST com Spring Boot  
+🔹 Laboratório de Performance SQL  
+🔹 Sistema de Chamados (Simulação de Suporte Técnico)
+
+---
+
+## 📚 Atualmente estudando
+
+- Estrutura de Dados em Java
+- Boas práticas de orientação a objetos
+- Conceitos de Arquitetura de Software
+- Clean Code
+
+---
+
+## 🎯 Objetivo
+
+Atuar como Desenvolvedora Back-end ou Analista de Sistemas Júnior, aplicando boas práticas, organização e foco em performance.
+
+---
+
+## 📫 Contato
+- LinkedIn:(https://www.linkedin.com/in/amanda-evelyn-395b2a210/)
