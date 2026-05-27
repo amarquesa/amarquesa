@@ -1,18 +1,35 @@
-# 👩🏻‍💻 Amanda Evelyn Marques
+# Amanda Evelyn
 
-Desenvolvedora Backend em formação, com foco em APIs REST, Node.js e banco de dados.
+## Backend Developer em formação
 
-## 🚀 Tecnologias
+Desenvolvedora backend com foco em Java, Spring Boot, APIs REST e PostgreSQL.
+
+### 🚀 Tecnologias
+
+- Java
+- Spring Boot
 - Node.js
 - PostgreSQL
-- Prisma
-- Java
-- Python
+- Prisma ORM
+- JWT
+- Swagger
+- Git/GitHub
 
-## 📌 Projetos em destaque
+### 📌 Áreas de interesse
 
-🔹 Condominium Management API  
-🔹 User Management API  
+- Backend Development
+- APIs REST
+- Cloud Computing
+- Banco de Dados
+- Suporte e Operações de TI
+
+### 📫 Contato
+
+LinkedIn:
+https://www.linkedin.com/in/amandaevelynm/
+
+GitHub:
+https://github.com/amarquesa
 
 ## 📫 Contato
 - Email: mandsevelynand@gmail.com
