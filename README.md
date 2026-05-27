@@ -31,6 +31,5 @@ https://www.linkedin.com/in/amandaevelynm/
 GitHub:
 https://github.com/amarquesa
 
-## 📫 Contato
-- Email: mandsevelynand@gmail.com
-- GitHub: https://github.com/amarquesa
+Email: mandsevelynand@gmail.com
+
